@@ -24,7 +24,7 @@ yarn
 
 <br/>
 
-Após instalar as dependências, configure as variáveis de ambiente de acordo com com o modelo do arquivo do **.env.template**, utilizando a sua conexão com seu banco de dados, a porta de sua preferência para iniciar o servidor e uma chave secreta para gerar o token de autenticação.
+Após instalar as dependências, configure as variáveis de ambiente de acordo com com o modelo do arquivo do **.env.template**, utilizando uma conexão com seu banco de dados _Postgresql_, a porta de sua preferência para iniciar o servidor e uma chave secreta para gerar o token de autenticação.
 
 <br/>
 
@@ -562,4 +562,4 @@ Erro genério `404 Not Found` pode ser ocasionado por uma rota passada errada ou
 
 <br/>
 
-MIT
+[MIT](LICENSE)
