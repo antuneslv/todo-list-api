@@ -47,7 +47,7 @@ yarn dev
 Criar migration:
 
 ```sh
-prisma migrate dev
+yarn prisma migrate dev
 ```
 
 <br/>
